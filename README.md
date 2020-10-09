@@ -1,5 +1,5 @@
 # Markov Word Generator
-This is a project that was implemented as a part of the Coursera course by Duke University: "Java Programming: Principles of Software Desing". The materials used for it are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This is a project that was implemented as a part of the Coursera course by Duke University: "Java Programming: Principles of Software Design". The materials used for it are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 It implements so called Markov word generators, which generate random text based on a training text. This program also provides the ability to choose the order of the Markov generator (= number of words used to predict the next one) and to choose the file to use for the training.
 
